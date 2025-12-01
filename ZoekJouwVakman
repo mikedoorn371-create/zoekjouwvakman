@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>ZoekJouwVakman – Snel een vakman nodig?</title>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: #f6f6f6;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background: white;
+        padding: 30px 20px;
+        text-align: center;
+        border-bottom: 3px solid #005bb8;
+    }
+
+    header img {
+        width: 180px;
+        max-width: 70%;
+    }
+
+    .headline {
+        font-size: 26px;
+        color: #005bb8;
+        margin-top: 12px;
+        font-weight: 700;
+    }
